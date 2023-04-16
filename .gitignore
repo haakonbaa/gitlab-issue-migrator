@@ -1,0 +1,11 @@
+# test data, libre office files
+data.csv
+.~lock*
+
+# vim swap files
+*.swp
+*.swo
+
+
+# python
+__pycache__/
